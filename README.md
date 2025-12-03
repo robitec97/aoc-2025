@@ -1,4 +1,4 @@
-# 🎄 Advent of Code 2025 – Python Solutions
+# 🎄 Advent of Code 2025
 
 Welcome to my repository for **Advent of Code 2025**!
 Here I am collecting day-by-day solutions to the puzzles, written in **Python**, each as a fully standalone script.
